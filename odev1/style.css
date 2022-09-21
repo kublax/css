@@ -1,0 +1,31 @@
+.body{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.baslık{ color: red;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+.baslıklar{
+    color: aqua;
+    font-size: 20;
+    font-family: Arial;
+}
+
+.navigasyon{
+    color: steelblue;
+    font-family: Arial;
+}
+.navigasyon :hover{
+    color: blue;
+}
+
+#aletsıra{
+    color:tomato;
+}
+.hakkımızda{
+    color: cadetblue;
+    font-size: 1.3em;
+}
